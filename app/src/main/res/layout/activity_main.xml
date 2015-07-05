@@ -1,0 +1,67 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity"
+    android:background="#ffdfeaf1"
+    >
+
+    <TextView android:text="@string/my_title" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_centerHorizontal="true"
+        android:textSize="30sp"
+        android:textColor="#0D47A1"
+        android:id="@+id/textView"
+        android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+    <Button
+        style = "@style/codeFont"
+        android:text="@string/media_streamer"
+        android:id="@+id/mediaButton"
+        android:layout_below="@+id/textView"
+        android:layout_marginTop="25dp"
+        android:onClick="sendMessage"/>
+
+    <Button
+        style = "@style/codeFont"
+        android:text="@string/super_duo1"
+        android:id="@+id/scoresButton"
+        android:layout_below="@+id/mediaButton"
+        android:layout_marginTop="15dp"
+        android:onClick="sendMessage"/>
+
+    <Button
+        style = "@style/codeFont"
+        android:text="@string/super_duo2"
+        android:id="@+id/libraryButton"
+        android:layout_below="@+id/scoresButton"
+        android:layout_marginTop="15dp"
+        android:onClick="sendMessage"/>
+
+    <Button
+        style = "@style/codeFont"
+        android:text="@string/ant_terminator"
+        android:id="@+id/terminatorButton"
+        android:layout_below="@+id/libraryButton"
+        android:layout_marginTop="15dp"
+        android:onClick="sendMessage"/>
+
+    <Button
+        style = "@style/codeFont"
+        android:text="@string/materialize"
+        android:id="@+id/materializeButton"
+        android:layout_below="@+id/terminatorButton"
+        android:layout_marginTop="15dp"
+        android:onClick="sendMessage"/>
+    <Button
+        style = "@style/codeFont"
+        android:text="@string/capstone"
+        android:id="@+id/capstoneButton"
+        android:layout_below="@+id/materializeButton"
+        android:layout_marginTop="15dp"
+        android:background="#E91E63"
+        android:onClick="sendMessage"/>
+
+</RelativeLayout>
