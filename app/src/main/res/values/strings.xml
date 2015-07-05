@@ -9,4 +9,6 @@
     <string name="ant_terminator">BUILD IT BIGGER</string>
     <string name="materialize">BACON READER</string>
     <string name="capstone">CAPSTONE: MY OWN APP</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="hello_world">Hello world!</string>
 </resources>

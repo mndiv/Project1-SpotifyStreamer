@@ -1,9 +1,9 @@
 package com.android.divya.myappportfolio;
 
 import android.content.Context;
-import android.support.v7.app.ActionBarActivity;
+import android.content.Intent;
 import android.os.Bundle;
-import android.view.Gravity;
+import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -58,7 +58,10 @@ public class MainActivity extends ActionBarActivity {
         int duration = Toast.LENGTH_SHORT;
 
         Toast toast = Toast.makeText(context, message, duration);
-        toast.show();
+       // toast.show();
+
+        Intent intent = new Intent(this,SearchActivity.class);
+        startActivity(intent);
 
     }
 }
