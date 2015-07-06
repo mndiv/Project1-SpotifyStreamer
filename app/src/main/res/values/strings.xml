@@ -11,4 +11,5 @@
     <string name="capstone">CAPSTONE: MY OWN APP</string>
     <string name="title_activity_search">SearchActivity</string>
     <string name="hello_world">Hello world!</string>
+    <string name="artist_name">Search by Artist</string>
 </resources>

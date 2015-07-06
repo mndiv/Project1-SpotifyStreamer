@@ -2,18 +2,18 @@
 <items version="2" >
 
     <item
-        jar="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jar="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\exploded-aar\spotify-web-api-android-0.1.0\jars\libs\jacocoagent.jar"
         jumboMode="false"
-        revision="23.0.0 rc2"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-1988aad2be340d7fc82b463d8a7f6f4599c7a924.jar" />
+        revision="22.0.1"
+        sha1="ea73283d55c98ab1fccb8c23d76c68b7d7ecbd83">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\pre-dexed\debug\jacocoagent-8be49f434fc6b2dc09bf14c48ee25da12b83b5c7.jar" />
     </item>
     <item
-        jar="C:\Users\KeerthanaS\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.2.0\c0b52915a48fa91b1b94a28d4a2997bac5f524df\okio-1.2.0.jar"
+        jar="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
         jumboMode="false"
-        revision="23.0.0 rc2"
-        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
-        <dex dex="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\pre-dexed\debug\okio-1.2.0-46fb25857a2e9b8f18f367b31dc43333ea7fb8b0.jar" />
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-1988aad2be340d7fc82b463d8a7f6f4599c7a924.jar" />
     </item>
     <item
         jar="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
@@ -23,11 +23,116 @@
         <dex dex="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\pre-dexed\debug\classes-623b6ed400243f6c3f1786930319b756cbdb9412.jar" />
     </item>
     <item
+        jar="C:\Users\KeerthanaS\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-840ba8e97dffd51c3a86c968e1e93abbbd7edf44.jar" />
+    </item>
+    <item
+        jar="C:\Users\KeerthanaS\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\pre-dexed\debug\gson-2.3.1-0158fb1eabf684e630a6c9785ef656b89eab8a8a.jar" />
+    </item>
+    <item
+        jar="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\exploded-aar\spotify-web-api-android-0.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="96ac623922d5561f1d9978f9d647183a2c0b0c0c">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\pre-dexed\debug\classes-e48eddf05205c37962bbd57c12587a047153a14d.jar" />
+    </item>
+    <item
+        jar="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\pre-dexed\debug\classes-f183b7a5cd9f23c52b1109ee9cdcad4ce6b1fe3b.jar" />
+    </item>
+    <item
+        jar="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\pre-dexed\debug\classes-623b6ed400243f6c3f1786930319b756cbdb9412.jar" />
+    </item>
+    <item
         jar="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\exploded-aar\spotify-web-api-android-0.1.0\jars\libs\jacocoagent.jar"
         jumboMode="false"
         revision="23.0.0 rc2"
         sha1="ea73283d55c98ab1fccb8c23d76c68b7d7ecbd83">
         <dex dex="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\pre-dexed\debug\jacocoagent-8be49f434fc6b2dc09bf14c48ee25da12b83b5c7.jar" />
+    </item>
+    <item
+        jar="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\pre-dexed\debug\classes-f183b7a5cd9f23c52b1109ee9cdcad4ce6b1fe3b.jar" />
+    </item>
+    <item
+        jar="C:\Users\KeerthanaS\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.2.0\c0b52915a48fa91b1b94a28d4a2997bac5f524df\okio-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\pre-dexed\debug\okio-1.2.0-46fb25857a2e9b8f18f367b31dc43333ea7fb8b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\KeerthanaS\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.2.0\959c454243581fdf730abfd4f4745441724bcf2c\okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\pre-dexed\debug\okhttp-2.2.0-94a03037785936c87784acd44251c88c319badfe.jar" />
+    </item>
+    <item
+        jar="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-1988aad2be340d7fc82b463d8a7f6f4599c7a924.jar" />
+    </item>
+    <item
+        jar="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\libs\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-2c958e0133dae50212cd7ecb1286a8b0b6595f74.jar" />
+    </item>
+    <item
+        jar="C:\Users\KeerthanaS\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-5a83e8f22c15be096ead339328501244286af35a.jar" />
+    </item>
+    <item
+        jar="C:\Users\KeerthanaS\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.2.0\c0b52915a48fa91b1b94a28d4a2997bac5f524df\okio-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\pre-dexed\debug\okio-1.2.0-46fb25857a2e9b8f18f367b31dc43333ea7fb8b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\KeerthanaS\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.2.0\959c454243581fdf730abfd4f4745441724bcf2c\okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\pre-dexed\debug\okhttp-2.2.0-94a03037785936c87784acd44251c88c319badfe.jar" />
+    </item>
+    <item
+        jar="C:\Users\KeerthanaS\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\pre-dexed\debug\gson-2.3.1-0158fb1eabf684e630a6c9785ef656b89eab8a8a.jar" />
+    </item>
+    <item
+        jar="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\exploded-aar\spotify-web-api-android-0.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="96ac623922d5561f1d9978f9d647183a2c0b0c0c">
+        <dex dex="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\pre-dexed\debug\classes-e48eddf05205c37962bbd57c12587a047153a14d.jar" />
     </item>
     <item
         jar="C:\Users\KeerthanaS\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
@@ -42,41 +147,6 @@
         revision="23.0.0 rc2"
         sha1="a681c044244d9fc375198588297a39ba78028423">
         <dex dex="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-5a83e8f22c15be096ead339328501244286af35a.jar" />
-    </item>
-    <item
-        jar="C:\Users\KeerthanaS\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
-        jumboMode="false"
-        revision="23.0.0 rc2"
-        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
-        <dex dex="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\pre-dexed\debug\gson-2.3.1-0158fb1eabf684e630a6c9785ef656b89eab8a8a.jar" />
-    </item>
-    <item
-        jar="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0 rc2"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\pre-dexed\debug\classes-f183b7a5cd9f23c52b1109ee9cdcad4ce6b1fe3b.jar" />
-    </item>
-    <item
-        jar="C:\Users\KeerthanaS\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
-        jumboMode="false"
-        revision="23.0.0 rc2"
-        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-07ef23e0ad6e12d196f5beed2c475aeb563f8c0a.jar" />
-    </item>
-    <item
-        jar="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\exploded-aar\spotify-web-api-android-0.1.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.0 rc2"
-        sha1="96ac623922d5561f1d9978f9d647183a2c0b0c0c">
-        <dex dex="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\pre-dexed\debug\classes-e48eddf05205c37962bbd57c12587a047153a14d.jar" />
-    </item>
-    <item
-        jar="C:\Users\KeerthanaS\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.2.0\959c454243581fdf730abfd4f4745441724bcf2c\okhttp-2.2.0.jar"
-        jumboMode="false"
-        revision="23.0.0 rc2"
-        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
-        <dex dex="C:\Divya\AndroidNanodegree\Projects\Project1-SpotifyStreamer\app\build\intermediates\pre-dexed\debug\okhttp-2.2.0-94a03037785936c87784acd44251c88c319badfe.jar" />
     </item>
 
 </items>

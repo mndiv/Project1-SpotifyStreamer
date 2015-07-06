@@ -8,6 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import kaaes.spotify.webapi.android.SpotifyApi;
+import kaaes.spotify.webapi.android.SpotifyService;
 
 
 /**
@@ -23,7 +24,15 @@ public class SearchFragment extends Fragment {
                              Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.fragment_search, container, false);
         Intent intent = getActivity().getIntent();
+
+        //Connect to the Spotify API with the wrapper
         SpotifyApi api = new SpotifyApi();
+
+        //Create a SpotifyService object that we can use to get desired data
+        SpotifyService spotify = api.getService();
+
+       // ArtistsPager results = spotify.searchArtists("Beyonce");
+
         return rootView;
     }
 }
